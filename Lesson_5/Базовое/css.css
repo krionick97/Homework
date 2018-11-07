@@ -1,0 +1,22 @@
+body {
+  background: #c490ff;
+}
+
+.card {
+  display: block;
+  background: #fff;
+  width: 400px;
+  height: 300px;
+  border-radius: 10px;
+  box-shadow: 2px 4px 20px #8360aa;
+}
+h1 {
+  text-align: center;
+  padding: 10px;
+}
+p {
+  margin-left: 24%;
+}
+ul {
+  padding-top: 15px;
+}

@@ -1,0 +1,28 @@
+body {
+  background-color: #f8b8b8;
+}
+.synopsis {
+  display: block;
+  background-color: #fff;
+  width: 50%;
+  border-radius: 10px;
+
+}
+.synopsis-text {
+  padding: 20px;
+  text-align: justify;
+}
+
+.main {
+  display: block;
+  background-color: #fff;
+  width: 80%;
+  margin: auto;
+}
+.main-text {
+  padding: 20px;
+  text-align: justify;
+}
+.main-text h2 {
+  text-align: center;
+}
